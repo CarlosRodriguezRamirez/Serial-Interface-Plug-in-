@@ -151,15 +151,15 @@ C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.dll
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.xml
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.pdb
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Release\Serial_InterfacePlugin.dll
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Release\Serial_InterfacePlugin.pdb
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Release\Serial_InterfacePlugin.xml
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\InterfacePlugin.vbprojAssemblyReference.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.Resources.resources
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.UserControl_Settings.resources
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.GenerateResource.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.CoreCompileInputs.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.CopyComplete
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.dll
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.xml
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Release\Serial_InterfacePlugin.pdb
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\bin\Release\Serial_InterfacePlugin.dll
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\bin\Release\Serial_InterfacePlugin.pdb
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\bin\Release\Serial_InterfacePlugin.xml
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\InterfacePlugin.vbprojAssemblyReference.cache
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\Serial_InterfacePlugin.Resources.resources
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\Serial_InterfacePlugin.UserControl_Settings.resources
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.GenerateResource.cache
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.CoreCompileInputs.cache
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\InterfacePlugin.vbproj.CopyComplete
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\Serial_InterfacePlugin.dll
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\Serial_InterfacePlugin.xml
+C:\Users\carlos\Source\Repos\Serial-Interface-Plug-in-\InterfacePlugin\obj\Release\Serial_InterfacePlugin.pdb

@@ -232,10 +232,11 @@ Public Class InterfacePlugin
         Dim OutPut As Double = 0
         Dim FinalOutput As String = ""
         Dim slope As Double = 0
-        'Dim output_start As Double = -5
-        'Dim output_end As Double = 5
-        Dim output_start As Double = 0
-        Dim output_end As Double = 10
+        'Let asume we center our actuator on the center of the rod.
+        Dim output_start As Double = -5
+        Dim output_end As Double = 5
+        'Dim output_start As Double = 0
+        'Dim output_end As Double = 10
 
         Dim input_start As Double = -1
         Dim input_end As Double = 1
@@ -486,7 +487,7 @@ Public Class InterfacePlugin
         End Select
 
         'Convert to an integer
-        OutPut = Math.Round(OutPut, 2)
+        OutPut = Math.Round(OutPut, 4)
 
         'Type
         Select Case Type

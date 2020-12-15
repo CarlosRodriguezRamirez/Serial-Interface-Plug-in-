@@ -45,15 +45,15 @@ C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.dll
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.xml
 C:\Users\admin\Desktop\SimTools 2.0 4-29-16\Interface_Plugins\Interface Plugins 2.0 - 2 AxisAssignments\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.pdb
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbprojAssemblyReference.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.dll
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.xml
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.pdb
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.dll
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.pdb
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.xml
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.Resources.resources
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.UserControl_Settings.resources
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.GenerateResource.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.CoreCompileInputs.cache
-D:\tools\Serial - Example Interface Plugin\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.CopyComplete
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.dll
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.pdb
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\bin\Debug\Serial_InterfacePlugin.xml
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbprojAssemblyReference.cache
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.Resources.resources
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.UserControl_Settings.resources
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.GenerateResource.cache
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.CoreCompileInputs.cache
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\InterfacePlugin.vbproj.CopyComplete
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.dll
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.xml
+D:\tools\Serial - Example Interface Plugin 2\Serial_InterfacePlugin\InterfacePlugin\InterfacePlugin\obj\Debug\Serial_InterfacePlugin.pdb
